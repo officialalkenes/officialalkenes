@@ -64,6 +64,17 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50" height="50">
 
 
+___
+
+My top Languages are:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialalkenes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+GitHub Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=radical)
+
 
 
 
