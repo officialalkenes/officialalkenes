@@ -19,10 +19,14 @@ ___
 
 I also create Dynamic web applications with user friendly and scalable frontend frameworks like:
 
+.<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
+
+___
+
+Front-end Programming Languages Include:
 .<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50">
 
 I have Also Worked alongside Frontend Developers on the top 3 Javascript Frontend frameworks like:
