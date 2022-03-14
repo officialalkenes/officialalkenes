@@ -32,7 +32,7 @@ I have Also Worked alongside Frontend Developers on the top 3 Javascript Fronten
 
 ___
 
-My top 2 operating systems are:
+Top two preferred operating systems are:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50">
@@ -43,12 +43,18 @@ Linux Preference:
 
 ___
 
+Database Knowledge:
 
+.<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
+
+___
 
 🔭 Toolbox
 
-.<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
+.<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
@@ -56,8 +62,6 @@ ___
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="50" height="50">
