@@ -41,9 +41,9 @@ Linux Preference:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50">
 
-
-
 ___
+
+
 
 🔭 Toolbox
 
@@ -52,6 +52,8 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
