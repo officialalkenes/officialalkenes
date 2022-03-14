@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Bello AbdulHakeem Olamide!
+#### I am Bello AbdulHakeem Olamide!
 
 ___
 
@@ -9,9 +9,32 @@ ___
 
 ___
 
-I am a software Developer with 1 year working experience
+I am a software Developer with 1 year working experience on:
+
+- Web Applications
+- Web Scraping
+- Data Analysis
 
 I also create Dynamic web applications which are user friendly and scalable
+
+___
+
+🔭 Toolbox
+
+.<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50">
+
+
+
 
 
 <!--
