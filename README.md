@@ -25,6 +25,7 @@ I also create Dynamic web applications with user friendly and scalable frontend 
 ___
 
 Front-end Programming Languages Include:
+
 .<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50">
@@ -53,24 +54,34 @@ Database Knowledge:
 <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="50" height="50">
 
 ___
 
-🔭 Toolbox
+Backend Programming Languages:
 
-.<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
+.<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
+
+___
+
+Preferred Backend Frameworks:
+
+.<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
+
+___
+🔭 Toolbox
+
+.<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50" height="50">
-
+<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="50" height="50">
 
 ___
 
