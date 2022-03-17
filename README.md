@@ -24,31 +24,31 @@ I also create Dynamic web applications with user friendly and scalable frontend 
 
 ___
 
-Front-end Programming Languages Include:
+### Front-end Programming Languages Include:
 
 .<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50">
 
-I have Also Worked alongside Frontend Developers on the top 3 Javascript Frontend frameworks like:
+#### I have Also Worked alongside Frontend Developers on the top 3 Javascript Frontend frameworks like:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
 
 ___
 
-Top two preferred operating systems are:
+### Top two preferred operating systems are:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50">
 
-Linux Preference:
+#### Linux Preference:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50">
 
 ___
 
-Database Knowledge:
+### Database Knowledge:
 
 .<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50">
@@ -58,14 +58,14 @@ Database Knowledge:
 
 ___
 
-Backend Programming Languages:
+### Backend Programming Languages:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
 
 ___
 
-Preferred Backend Frameworks:
+### Preferred Backend Frameworks:
 
 .<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
@@ -74,6 +74,7 @@ Preferred Backend Frameworks:
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
 
 ___
+
 🔭 Toolbox
 
 .<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
@@ -85,12 +86,12 @@ ___
 
 ___
 
-My top Languages are:
+### My top Languages are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialalkenes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-GitHub Stats:
+### GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=radical)
 
