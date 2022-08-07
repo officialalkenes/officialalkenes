@@ -36,12 +36,9 @@ ___
 ### Front-end Programming Languages Include:
 
 <a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 
-.<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" width="50" height="50">
 
 #### I have Also Worked alongside Frontend Developers on the top 3 Javascript Frontend frameworks like:
 
