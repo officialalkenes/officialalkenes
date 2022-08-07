@@ -20,7 +20,8 @@ I am a software Developer with 1 year working experience on:
 
 #### ⚡ Fun facts: 
 - I am labelled know it all for reading and learning too much 😄 
-- I am a die hard fan of murder mystery and poetry 😄
+- I fantasize writing a crime and mystery book 😄
+- I write poems for fun, exploration and expression
 - 
 
 ___
