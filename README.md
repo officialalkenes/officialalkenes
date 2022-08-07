@@ -64,31 +64,39 @@ ___
 
 
 #### Linux Preference:
-
-.<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="50" height="50">
-
-___
-
-### Database Knowledge:
-
-.<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="50" height="50">
-
+<a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 
 ___
 
-### Preferred Backend Frameworks:
-
-.<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
+### Database Experience:
+<a href="" ><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a>
 
 ___
+
+### Preferred Backend Frameworks and Libraries:
+
+<a href="" ><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /></a>
+<a href="" ><img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black" /></a>
+<a href="" ><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
+<a href="" ><img src="" /></a>
+
+___
+
+### Deployment Platforms:
+<a href="" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSssx6qHd-jBH9jyNdcWJrZhQ_1nvjHl092DT1K36MQ&s" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="" ><img src="" /></a>
+
+
 
 🔭 Toolbox
 
