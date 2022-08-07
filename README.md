@@ -9,11 +9,19 @@ ___
 
 ___
 
+
+### 🌱 I’m part of the current SOFTWARE ENGINEERING graduating team with ALX
+
 I am a software Developer with 1 year working experience on:
 
 - Web Applications (Mostly Backend)
 - Web Scraping Data
 - Data Analysis
+
+#### ⚡ Fun facts: 
+- I am labelled know it all for reading and learning too much 😄 
+- I am a die hard fan of murder mystery and poetry 😄
+- 
 
 ___
 
@@ -60,7 +68,7 @@ ___
 
 ### Backend Programming Languages:
 
-.<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50" height="50">
+<a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
 
 ___
