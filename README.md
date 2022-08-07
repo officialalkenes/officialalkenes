@@ -71,7 +71,8 @@ ___
 ### Backend Programming Languages:
 
 <a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50">
+<a href="" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+
 
 ___
 
