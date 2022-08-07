@@ -36,31 +36,32 @@ ___
 
 
 
-### Front-end Programming Languages Include:
+### Front-end Programming Languages:
 
 <a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 
 
-I also create Dynamic web applications with user friendly and scalable frontend frameworks like:
+### Css Framework Preference:
+
 <a href="" ><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 
 ___
 
 
-#### I have Also Worked alongside Frontend Developers on top Javascript Frontend frameworks like:
+#### JavaScript Framework Experience:
 
 <a href="" ><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
 
 ___
 
-### Top two preferred operating systems are:
+### Operating System Preference:
+<a href="" ><img src="![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" /></a>
+<a href="" ><img src="![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" /></a>
 
-.<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="50" height="50">
 
 #### Linux Preference:
 
