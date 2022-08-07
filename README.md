@@ -34,7 +34,10 @@ I also create Dynamic web applications with user friendly and scalable frontend 
 ___
 
 ### Front-end Programming Languages Include:
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
+<a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 
 .<img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50">
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="50" height="50">
