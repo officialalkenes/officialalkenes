@@ -35,12 +35,6 @@ ___
 ___
 
 
-I also create Dynamic web applications with user friendly and scalable frontend frameworks like:
-
-.<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50">
-
-___
 
 ### Front-end Programming Languages Include:
 
@@ -49,10 +43,17 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 
 
-#### I have Also Worked alongside Frontend Developers on the top 3 Javascript Frontend frameworks like:
+I also create Dynamic web applications with user friendly and scalable frontend frameworks like:
+<a href="" ><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
 
-.<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50" height="50">
+___
+
+
+#### I have Also Worked alongside Frontend Developers on top Javascript Frontend frameworks like:
+
+<a href="" ><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /></a>
 
 ___
 
