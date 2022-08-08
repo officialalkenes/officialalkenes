@@ -9,8 +9,19 @@ ___
 ![GitHub followers](https://img.shields.io/github/followers/officialalkenes?label=total%20followers&style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?label=follow%20me%20on&style=social&url=https%3A%2F%2Ftwitter.com%2Fofficialalkenes)
 
+  
 ___
 
+### GitHub Stats:
+
+![Official Alkenes's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=radical)
+
+
+<a href="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialalkenes&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
+</a>
+
+___
 
 ### 🌱 I am a recent SOFTWARE ENGINEERING graduat with ALX
 
@@ -133,15 +144,6 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialalkenes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### GitHub Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=radical)
-
-
-<a href="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialalkenes&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
-</a>
 
 
 
