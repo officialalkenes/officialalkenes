@@ -1,6 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I am Bello AbdulHakeem Olamide!
 
+![](https://komarev.com/ghpvc/?username=officialalakenes)
+<a href="#" width="20%">
 ___
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/officialalkenes?label=Total%20Followers&style=social)
