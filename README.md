@@ -12,6 +12,14 @@ ___
 
 ### 🌱 I’m part of the current SOFTWARE ENGINEERING graduating team with ALX
 
+### 🔭 I’m currently working on:
+- FastPay
+- Humia
+- FindMeARoomie
+
+### 👯 I’m looking to collaborate with a Vue Developer and a mobile App Developer
+
+
 I am a software Developer with 1 year working experience on:
 
 - Web Applications (Mostly Backend)
@@ -22,7 +30,6 @@ I am a software Developer with 1 year working experience on:
 - I am labelled know it all for reading and learning too much 😄 
 - I fantasize writing a crime and mystery book 😄
 - I write poems for fun, exploration and expression
-- 
 
 ___
 
@@ -96,20 +103,28 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
 <a href="" ><img src="" /></a>
 
+___
+
+🔭 Toolbox and IDES
+
+<a href="" ><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /></a>
+<a href="" ><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
+<a href="" ><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
 
 
-🔭 Toolbox
-
-.<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" width="50" height="50">
+### Terminals:
+<a href="" ><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /></a>
 
 ___
 
-### My top Languages are:
+### Top Favorite Languages are:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialalkenes&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
