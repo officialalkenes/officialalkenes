@@ -17,14 +17,17 @@ ___
 - Humia
 - FindMeARoomie
 
+___
+
 ### 👯 I’m looking to collaborate with a Vue Developer and a mobile App Developer
 
+### 💬 Ask me about:
+- Python
+- Django
+- Django Restframework
+- Model Structure
+- Orm Queries
 
-I am a software Developer with 1 year working experience on:
-
-- Web Applications (Mostly Backend)
-- Web Scraping Data
-- Data Analysis
 
 #### ⚡ Fun facts: 
 - I am labelled know it all for reading and learning too much 😄 
