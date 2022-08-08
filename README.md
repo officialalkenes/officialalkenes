@@ -101,6 +101,16 @@ ___
 
 ___
 
+### Data Science Framework Experience
+  
+<a href="" ><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
+
+___  
+  
+
 ### Deployment Platforms:
 <a href="" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSssx6qHd-jBH9jyNdcWJrZhQ_1nvjHl092DT1K36MQ&s" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
