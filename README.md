@@ -140,6 +140,16 @@ ___
 
 
 
+<a href="https://github.com/Hezekiah-Elisha/company_x">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=officialalakenes&repo=company_x&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/officialalakenes/FastPay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=officialalakenes&repo=FastPay&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialalkenes&theme=tokyonight&width=1000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="100%"/>
+</a>
+
 
 
 <!--
