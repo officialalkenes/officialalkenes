@@ -105,7 +105,6 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="" ><img src="" /></a>
 
 ___
 
