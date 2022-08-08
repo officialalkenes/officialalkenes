@@ -12,7 +12,7 @@ ___
 ___
 
 
-### 🌱 I’m part of the current SOFTWARE ENGINEERING graduating team with ALX
+### 🌱 I am a recent SOFTWARE ENGINEERING graduat with ALX
 
 ### 🔭 I’m currently working on:
 - FastPay
