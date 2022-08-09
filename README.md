@@ -18,7 +18,6 @@ ___
 - FastPay
 - Humia
 - FindMeARoomie
-
 ___
 
 ### 👯 I’m looking to collaborate with a Vue Developer and a mobile App Developer
