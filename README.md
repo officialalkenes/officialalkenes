@@ -31,7 +31,7 @@ ___
 
 
 #### ⚡ Fun facts: 
-- I am labelled know it all for reading and learning too much 😄 
+- I am labelled know that's what Veritasium makes you 😉😉  
 - I fantasize writing a crime and mystery book 😄
 - I write poems for fun, exploration and expression
 
