@@ -14,13 +14,16 @@ ___
 
 ### 🌱 I am a recent SOFTWARE ENGINEERING graduate with ALX
 
+### 🌱 Co-founder at 7th Technology 
+
 ### 🔭 I’m currently working on:
 - FastPay
 - Humia
 - FindMeARoomie
+- 7th-tech-learning
 ___
 
-### 👯 I’m looking to collaborate with a Vue Developer and a mobile App Developer
+### 👯 I’m looking to collaborate with like minded individuals with zeal for learning
 
 ### 💬 Ask me about:
 - Python
@@ -28,12 +31,16 @@ ___
 - Django Restframework
 - Model Structure
 - Orm Queries
+- Web Development
+- Dynamic Web Scraping
+- Data Analytics
 
 
 #### ⚡ Fun facts: 
 - I fantasize writing a crime and mystery book 😄
 - I write poems for fun, exploration and expression
 - I love education more than school
+
 ___
 
 ### Backend Programming Languages:
