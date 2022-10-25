@@ -12,7 +12,7 @@ ___
   
 ___
 
-### 🌱 I am a recent SOFTWARE ENGINEERING graduate with ALX
+### 🌱 I am a recent SOFTWARE ENGINEERING graduate at ALX
 
 ### 🌱 Co-founder at 7th Technology 
 
