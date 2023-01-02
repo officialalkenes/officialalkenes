@@ -12,25 +12,28 @@ ___
   
 ___
 
-### 🌱 I am a recent SOFTWARE ENGINEERING graduate at ALX
 
-### 🌱 Co-founder at 7th Technology 
+### 🌱 Co-founder & CTO at 7th Technology 
 
 ### 🔭 I’m currently working on:
 - FastPay
 - Humia
 - FindMeARoomie
 - 7th-tech-learning
+- 7th SMS
 ___
 
-### 👯 I’m looking to collaborate with like minded individuals with zeal for learning
+### Backend Programming Specialization:
+- Web Development
+- Api
+<!-- ### 👯 I’m looking for potential  -->
 
 ### 💬 Ask me about:
 - Python
-- Django
-- Django Restframework
-- Model Structure
-- Orm Queries
+- Django & Django Restframework
+- SaaS Implementation
+- Model Structure & Orm Queries
+- Software Development Best Practices
 - Web Development
 - Dynamic Web Scraping
 - Data Analytics
