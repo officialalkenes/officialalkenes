@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I am Bello AbdulHakeem Olamide!
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Bello AbdulHakeem" src="https://readme-typing-svg.herokuapp.com/?lines=Bello+AbdulHakeem;Python+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=officialalakenes)
 <a href="#" width="20%">
