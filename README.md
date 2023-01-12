@@ -157,18 +157,11 @@ ___
 </details>
 ___
 
-   
 <details>
-   <summary> 🕗 WakaTime </summary>
-   </br>
-   Total time coded since May 9 2022
-   </br> 
-   <img alt="Total time coded since May 9 2022" src="https://wakatime.com/badge/user/ee2709af-fc5f-498b-aaa1-3ea47bf12a00.svg?style=for-the-badge">
-   </br></br>
-
-### GitHub Stats:
-
-![Official Alkenes's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=radical)
+   <summary> 🦾 Profile-3d-contrib </summary>
+   <br/>
+   <img alt="officialalkenes's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</details>
 
 
 <a href="">
