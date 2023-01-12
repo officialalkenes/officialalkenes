@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### I am Bello AbdulHakeem Olamide!
 <h3 align="center"><a href="https://hud0shnik.github.io/">
-   <img alt="Bello AbdulHakeem" src="https://readme-typing-svg.herokuapp.com/?lines=Bello+AbdulHakeem;SoftWare+Developer;&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Bello AbdulHakeem" src="https://readme-typing-svg.herokuapp.com/?lines=Bello+AbdulHakeem;SoftWare+Developer;Data+Analyst&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=officialalakenes)
@@ -156,12 +156,6 @@ ___
    <img alt="Hud0shnik's Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=officialalkenes&bg_color=1F222E&color=FFFFFF&line=568EA3&point=FFE8D1&hide_border=true" width="100%"/>
 </details>
 ___
-
-<details>
-   <summary> 🦾 Profile-3d-contrib </summary>
-   <br/>
-   <img alt="officialalkenes's Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</details>
 
 
 <a href="">
