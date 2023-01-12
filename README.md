@@ -149,8 +149,7 @@ ___
 
 ### Top Favorite Languages are:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialalkenes&theme=radical)](https://github.com/officialalkenes/github-readme-stats)
-
+![Alkenes's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialalkenes&show_icons=true&theme=transparent)
 ___
 
 ### GitHub Stats:
@@ -179,3 +178,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+
+  
