@@ -29,6 +29,7 @@ ___
 ### Backend Programming Specialization:
 - Web Development
 - Api
+- Data Analysis
 <!-- ### 👯 I’m looking for potential  -->
 
 ### 💬 Ask me about:
