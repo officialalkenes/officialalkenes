@@ -19,28 +19,29 @@ ___
 ### 🌱 Co-founder & CTO at 7th Technology 
 
 ### 🔭 I’m currently working on:
-- FastPay
 - Humia
 - FindMeARoomie
 - 7th-tech-learning
 - 7th SMS
+- Astudent's Dream
 ___
 
 ### Backend Programming Specialization:
 - Web Development
 - Api
-- Data Analysis
+- Data Science
 <!-- ### 👯 I’m looking for potential  -->
 
 ### 💬 Ask me about:
 - Python
 - Django & Django Restframework
 - SaaS Implementation
+- Data science
 - Model Structure & Orm Queries
 - Software Development Best Practices
 - Web Development
 - Dynamic Web Scraping
-- Data Analytics
+- Data and Web Analytics
 
 
 #### ⚡ Fun facts: 
