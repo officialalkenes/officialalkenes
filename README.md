@@ -57,8 +57,7 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=go&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=golang&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></a>
 ___
 
 
@@ -92,7 +91,7 @@ ___
 
 #### Linux Preference:
 <a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=kali&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
 
 ___
 
@@ -123,6 +122,7 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 
 ___  
   
