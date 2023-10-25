@@ -19,17 +19,18 @@ ___
 ### 🌱 Co-founder & CTO at 7th Technology 
 
 ### 🔭 I’m currently working on:
-- Humia
 - FindMeARoomie
 - 7th-tech-learning
 - 7th SMS
-- Astudent's Dream
+- BDG-FOODS
 ___
 
 ### Backend Programming Specialization:
 - Web Development
 - Api
 - Data Science
+- Cyber Security
+- Penetration Testing
 <!-- ### 👯 I’m looking for potential  -->
 
 ### 💬 Ask me about:
@@ -56,7 +57,8 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-
+<a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=golang&logoColor=white" /></a>
 ___
 
 
@@ -90,6 +92,7 @@ ___
 
 #### Linux Preference:
 <a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=kali&logoColor=white" /></a>
 
 ___
 
@@ -119,10 +122,10 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+<a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
 
 ___  
   
-
 ### Deployment Platforms:
 <a href="" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSssx6qHd-jBH9jyNdcWJrZhQ_1nvjHl092DT1K36MQ&s" /></a>
 <a href="" ><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
