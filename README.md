@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
 
 <h3 align="center"><a href="">
    <img alt="Bello AbdulHakeem" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Bello+AbdulHakeem+Olamide;Software+Engineer+and+Developer;Data+Scientist&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
@@ -16,21 +16,21 @@ ___
 ___
 
 
-### 🌱 Co-founder & CTO at 7th Technology 
+### 🌱 Co-founder & CTO at Newcode Crafters and Senior Backend Developer at SaasCrafters Solutions
 
 ### 🔭 I’m currently working on:
 - FindMeARoomie
-- 7th-tech-learning
+- Jobify
 - 7th SMS
 - BDG-FOODS
 ___
 
-### Backend Programming Specialization:
-- Web Development
-- Api
-- Data Science
+### Core Area of Specialization:
+- Web Development (Strongly Backend)
+- REST API designs and implementation
+- Machine Learning (Data Science)
 - Cyber Security
-- Penetration Testing
+- Web Penetration Testing
 <!-- ### 👯 I’m looking for potential  -->
 
 ### 💬 Ask me about:
@@ -48,8 +48,7 @@ ___
 #### ⚡ Fun facts: 
 - I fantasize writing a crime and mystery book 😄
 - I write poems for fun, exploration and expression
-- I love education more than school
-
+- You love School, I love education
 ___
 
 ### Backend Programming Languages:
@@ -84,12 +83,7 @@ ___
 
 ___
 
-### Operating System Preference:
-<a href="" ><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
-
-
-#### Linux Preference:
+#### Debian Preference:
 <a href="" ><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /></a>
 
@@ -115,14 +109,6 @@ ___
 <a href="" ><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /></a>
 
 ___
-
-### Data Science Framework Experience
-  
-<a href="" ><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
-<a href="" ><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
-<a href=""><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 
 ___  
   
